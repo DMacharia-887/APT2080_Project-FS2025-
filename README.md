@@ -7,5 +7,7 @@ Members:
 3. Abdiweli osman 668106
 4. Mercy Musila 673821
 5. Abdi Dakane 673007
-6. Abdulhalim Mohamed Abeid -673465
+6. Abdulhalim Mohamed Abeid 673465
+7. Tamia Wambugu 674367
+
 
