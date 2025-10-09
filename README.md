@@ -1,6 +1,6 @@
 ﻿# APT2080_Project-FS2025-
 
-This is Group's 4 Github Repo for the APT2080 FS2025 Class. 
+This is Group's 4 Github Repo for the APT2080 FS2025 Class. <br>
 Members:
 1. Dennis Macharia 663843
 2. Chris Ngure 669798
@@ -8,3 +8,4 @@ Members:
 4. Mercy Musila 673821
 5. Abdi Dakane 673007
 6. Abdulhalim Mohamed Abeid -673465
+
