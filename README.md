@@ -10,7 +10,7 @@ Members:
 6. Abdulhalim Mohamed Abeid 673465
 7. Tamia Wambugu 674367
 
-# 🧑‍💻 SOFTWARE ENGINEERING REPORT / PRESENTATION NOTES
+# 🧑‍💻 SOFTWARE ENGINEERING REPORT 
 
 ## Project: Rock–Paper–Scissors Game in Python
 
@@ -32,6 +32,7 @@ It was developed by applying the **Software Engineering Process**, following the
 This project demonstrates how engineering principles can be applied even to a simple software system — ensuring the final product is functional, reliable, maintainable, and user-friendly.
 
 ---
+
 
 
 
