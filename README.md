@@ -21,17 +21,8 @@ Members:
 **What is the Project?**
 
 The Rock–Paper–Scissors program is a small Python-based interactive game that allows a user to play against the computer.  
-It was developed by applying the **Software Engineering Process**, following the main **Software Development Life Cycle (SDLC)** stages:
 
-- Requirement Analysis
-- System Design
-- Coding and Implementation
-- Testing
-- Maintenance and Evolution
 
-This project demonstrates how engineering principles can be applied even to a simple software system — ensuring the final product is functional, reliable, maintainable, and user-friendly.
-
----
 
 
 
